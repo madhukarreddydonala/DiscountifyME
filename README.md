@@ -4,8 +4,8 @@
 
 A mobile-first responsive web application that connects deal-seeking consumers with local businesses offering discounts. Built with Next.js, TypeScript, and Tailwind CSS.
 
-![DiscountifyME Logo]
-![DiscountifyME Logo](https://img.shields.io/badge/Demo-Live-brightgreen)-->https://frolicking-babka-c3b758.netlify.app/
+
+![DiscountifyME Logo](https://img.shields.io/badge/Demo-Live-brightgreen) -->https://frolicking-babka-c3b758.netlify.app/
 
 ## 🌟 Features
 
